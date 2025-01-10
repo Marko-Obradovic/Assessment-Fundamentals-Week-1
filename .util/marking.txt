@@ -1,5 +1,5 @@
 ============================= test session starts ==============================
-platform linux -- Python 3.12.5, pytest-8.3.2, pluggy-1.5.0
+platform linux -- Python 3.12.8, pytest-8.3.4, pluggy-1.5.0
 rootdir: /home/runner/work/Assessment-Fundamentals-Week-1/Assessment-Fundamentals-Week-1
 collected 26 items
 
